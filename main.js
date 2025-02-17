@@ -3,7 +3,8 @@ function main() {
 }
 
 function func1() {
-  console.log('func1');
+  console.log('func1_byme');
+  console.log('some changes byme');
 }
 
 main();
