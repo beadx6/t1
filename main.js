@@ -1,5 +1,6 @@
 function main() {
-  console.log('Hello, World!');
+  console.log('Hello, World! byA');
+  console.log('some new func byA')
 }
 
 function func1() {
