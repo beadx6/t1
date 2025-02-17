@@ -1,5 +1,6 @@
 function main() {
   console.log('Hello, World! remove byA');
+  console.log('Hello, World! remove byB');
 }
 
 function func1() {
